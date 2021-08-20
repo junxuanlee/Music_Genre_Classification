@@ -30,4 +30,4 @@ To further improve the model performance, resampling is carried out to solve the
 
 PCA was carried out to learn which features/variables contributed the most to model perdictions.
 
-It was finalized that Gradient Boost Classifier with SMOTE implemented achieved the best results.
+It was finalized that the implementation with SMOTE and Gradient Boost Classifier achieved the best results.
