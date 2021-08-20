@@ -21,10 +21,10 @@ The following are the classifiers tested:
 The models were evaluated using cross-entropy loss. Confusion matrices were generated to investigate the models' performance.
 
 To further improve the model performance, resampling is carried out to solve the issue of imbalanced class distribution. The following were the methods implemented:
-1) Undersampling
+1) Undersampling:
     i) Random Undersampling
     ii) Undersampling through clusters
-2) Oversampling
+2) Oversampling:
     i) Random Oversampling
     ii) Synthetic Minority Oversampling Technique (SMOTE)
 
