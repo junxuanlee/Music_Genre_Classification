@@ -1,6 +1,6 @@
 # Music_Genre_Classification
 
-This project is a submission to a Music Genre Classification Hackathon at Machine Hack: https://machinehack.com/hackathons/music_genre_classification_weekend_hackathon_edition_2_the_last_hacker_standing/overview
+This project is a submission to a Music Genre Classification Hackathon at Machine Hack: https://machinehack.com/hackathons/music_genre_classification_weekend_hackathon_edition_2_the_last_hacker_standing/overview. Successfully achieved Top 60 out of 339 participants by minimizing Log loss with Gradient Boost Classifier.
 
 Several data visualization techniques have been implemented:
 1) Histograms
